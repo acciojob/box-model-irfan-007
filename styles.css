@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.container{
+	padding:2rem;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	gap:1rem;
+	margin:auto;
+	background-color:#999;
+	width:50%;
+	border-radius:25px;
+	outline:3px solid #222;
+	border:3px solid #666;
+}
+.container div{
+	width:5rem;
+	height:5rem;
+	border-radius:50px;
+}
