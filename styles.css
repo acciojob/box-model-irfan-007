@@ -12,8 +12,10 @@
 	outline:3px solid #222;
 	border:3px solid #666;
 }
-.container div{
+.red,.green,.yellow{
 	width:5rem;
 	height:5rem;
 	border-radius:50px;
+	border:1px solid black;
+	display:inline-block;
 }
